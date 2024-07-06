@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Miles Biringanine</h1>
-<p align="center">Profile views: <img src="https://profile-counter.glitch.me/{your-username}/count.svg" alt="Miles Biringanine :: Visitor's Count" /></p>
+
 
 ## About Me
 
